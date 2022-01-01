@@ -26,7 +26,9 @@
 # Aimtype
 
 Added the new Body Prediction **When a player jumps it shoots their legs it predicts the movement which shoots them at random body parts using velocity and freefall check** 
+- Bullet Predict Up **Puts the bullet prediction up**
+- Bullet Predict Down **Puts the bullet prediction down**
 
 # FPS Booster
 **Btw if your exploit support sethiddenproperty it can change the lighting and remove realistic grass in terrians but you can use it still if you don't have that supported**
-- FPS Booster in Settings tab **This changes the maps parts to smooth block and changes your graphics low and gets the lighting to low quality**
+- FPS Booster in Settings tab **This changes the maps parts to smooth block and changes your graphics low and gets the lighting to low quality soo you won't get laggy and make your frames go up**
